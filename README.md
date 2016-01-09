@@ -1,5 +1,8 @@
 # Interactive infographic Android App
 In this project, our team was tasked with creating an Android tablet application that displayed a single interactive infographic from (a small portion of!!!) data that could be retrieved from the World Bank data set.  
+# Product Demonstration
+<a href="https://www.youtube.com/watch?v=Jtn7Jsiytgw" target="_blank"><img src="https://i.ytimg.com/vi_webp/UpJgAlJMbqs/mqdefault.webp" 
+alt="Project Walk Screencast" width="240" height="180"/></a>
 # Requirements
 The infographic must visualise data retrieved from the World Bank data set.  As a visualisation, it should be able to expose patterns or provide insights that a mere table or simple chart does not.  Most importantly, the infographic must not be misleading!  To ensure this, some background research into the pitfalls of data visualisation is needed.
 
